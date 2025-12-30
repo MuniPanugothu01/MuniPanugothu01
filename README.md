@@ -2,9 +2,14 @@
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt="Wave"/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Developer Workspace Banner" width="100%"/>
-
+  <img 
+    src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" 
+    alt="Developer Workspace Banner"
+    height="220"
+    style="object-fit: cover; width: 100%;"
+  />
 </p>
+
 
 ## 💻 What I Do
 - **Full-Stack Excellence**: Building dynamic apps with **MongoDB**, **Express.js**, **React**, **Node.js**, and **Next.js**.
