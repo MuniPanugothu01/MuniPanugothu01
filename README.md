@@ -1,5 +1,4 @@
-# 🚀 Welcome to My World, I'm Muni Panugothu! 
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt="Wave"/>
+# 🚀 Welcome to My World, I'm Muni Panugothu! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt="Wave"/>
 
 <p align="center">
   <img src="https://i.pinimg.com/736x/7b/fd/87/7bfd875e85fbbed980e9df59bcde8579.jpg" alt="Coding Banner" width="full"/>
