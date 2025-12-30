@@ -1,108 +1,58 @@
-<h1 align="center">
-  Hi, I'm Muni Panugothu 👋
-</h1>
-
-<h3 align="center">
-  Software Engineer | Full-Stack Developer | System Design & Cloud Enthusiast
-</h3>
+# 🚀 Welcome to My World, I'm Muni Panugothu! 
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt="Wave"/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MuniPanugothu01&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://raw.githubusercontent.com/microsoft/vscode-docs/main/images/home/home-screenshot-mac.png" alt="Developer Workspace Banner" width="100%"/>
 </p>
 
----
+## 💻 What I Do
+- **Full-Stack Excellence**: Building dynamic apps with **MongoDB**, **Express.js**, **React**, **Node.js**, and **Next.js**.
+- **System Design Mastery**: Architecting scalable systems with **load balancing**, **AWS EC2**, **Nginx**, **Docker**, and microservices.
+- **Freelance Expertise**: Delivering tailored solutions for global clients with a focus on performance and reliability.
+- **Project Portfolio**: Created real-time chat platforms, e-commerce stores, and gym management systems.
+
+## 🛠️ Tech Stack & Skills
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Nginx-009639?logo=nginx&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" />
+</p>
+
+- **Frontend**: React, Next.js, TypeScript, Tailwind CSS, Framer Motion
+- **Backend**: Node.js, Express.js, MongoDB, MySQL, REST APIs
+- **System Design**: Load Balancing, Caching (Redis), Microservices, CI/CD
+- **DevOps**: AWS EC2, S3, Nginx, Docker, Kubernetes
+- **Tools**: Socket.IO, Cloudinary, NextAuth.js, Git
+
+## 🔥 System Design Superpowers
+- **Distributed Systems**: Microservices with high availability.
+- **Load Balancing**: Optimizing traffic with Nginx and AWS ELB.
+- **Cloud Infrastructure**: Deploying on AWS EC2, S3, and RDS.
+- **Performance**: Caching with Redis and database optimization.
+- **CI/CD**: Automating with GitHub Actions and Docker.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="Professional Developer Banner" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="80"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="80"/>
 </p>
 
----
-
-## 👨‍💻 About Me
-
-I am a **Software Engineer** currently working in the industry, with hands-on experience in building, maintaining, and scaling **production-grade web applications**.
-
-I work across the stack — from designing clean, performant user interfaces to developing reliable backend systems and deploying them on cloud infrastructure.
-
-- 🔹 Professional experience with **MERN & Next.js**
-- 🔹 Strong understanding of **system design and backend architecture**
-- 🔹 Focused on **scalability, performance, and maintainability**
-- 🔹 Continuously improving skills in **cloud and DevOps technologies**
-
----
-
-## 🧠 What I Work On
-
-- **Product Development**  
-  Building and maintaining real-world applications used by end users.
-
-- **Backend Engineering**  
-  Designing APIs, managing databases, authentication, and performance optimization.
-
-- **System Design**  
-  Applying microservices, caching, and load balancing concepts in practical scenarios.
-
-- **Cloud & DevOps**  
-  Deploying and monitoring applications using AWS, Docker, and reverse proxies.
-
----
-
-## 🛠️ Technical Skills
-
-### Frontend
-- React, Next.js, TypeScript  
-- Tailwind CSS, Framer Motion  
-
-### Backend
-- Node.js, Express.js  
-- MongoDB, MySQL  
-
-### System Design
-- Microservices Architecture  
-- Load Balancing (Nginx)  
-- Caching with Redis  
-
-### Cloud & DevOps
-- AWS EC2, S3, RDS  
-- Docker & Containerization  
-
-### Tools & Libraries
-- Git & GitHub  
-- Socket.IO  
-- Cloudinary  
-- NextAuth.js  
-- Postman  
-
----
+## 🌟 Why Work With Me?
+- **Problem Solver**: Tackling challenges from APIs to distributed systems.
+- **Freelance Star**: Delivered 5+ projects with quality and scalability.
+- **System Design Expert**: Building resilient systems with AWS and Nginx.
+- **Collaborative**: Passionate about open-source and innovative ideas.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="60"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="60"/>
+  <img src="https://raw.githubusercontent.com/ashutosh1919/ashutosh1919/master/assets/collaboration.svg" width="180" alt="Collaboration"/>
 </p>
-
----
-
-## 🚀 Professional Highlights
-
-- ✔ Experience working on **production systems**
-- ✔ End-to-end feature development
-- ✔ Strong collaboration in cross-functional teams
-- ✔ Clean code & best practices focus
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuniPanugothu01&show_icons=true&theme=default" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?username=MuniPanugothu01&theme=default" width="48%" />
-</p>
-
----
 
 ## 📬 Connect With Me
-
 <p align="center">
   <a href="mailto:munipanugothu2001@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
@@ -115,6 +65,4 @@ I work across the stack — from designing clean, performant user interfaces to 
   </a>
 </p>
 
----
-
-⭐️ *Building reliable software, one feature at a time.*
+Let’s architect something extraordinary! Reach out or check my repos. 🚀
