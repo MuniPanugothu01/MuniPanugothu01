@@ -2,7 +2,8 @@
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt="Wave"/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/microsoft/vscode-docs/main/images/home/home-screenshot-mac.png" alt="Developer Workspace Banner" width="100%"/>
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Developer Workspace Banner" width="100%"/>
+
 </p>
 
 ## 💻 What I Do
