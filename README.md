@@ -2,13 +2,9 @@
 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" alt="Wave"/>
 
 <p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" 
-    alt="Developer Workspace Banner"
-    height="220"
-    style="object-fit: cover; width: 100%;"
-  />
+  <img src="https://i.pinimg.com/736x/7b/fd/87/7bfd875e85fbbed980e9df59bcde8579.jpg" alt="Coding Banner" width="full"/>
 </p>
+
 
 
 ## 💻 What I Do
