@@ -51,8 +51,8 @@
 - **Collaborative**: Passionate about open-source and innovative ideas.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ashutosh1919/ashutosh1919/master/assets/collaboration.svg" width="180" alt="Collaboration"/>
-</p>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazgwaHlsbzhteXl4dzBneTg0Zzd5aDg1bDhyc3U5NDZkYjR5cjBveSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/umYMU8G2ixG5mJBDo5/giphy.gif" width="400" alt="System Design Animation"/>
+</p>>
 
 ## 📬 Connect With Me
 <p align="center">
